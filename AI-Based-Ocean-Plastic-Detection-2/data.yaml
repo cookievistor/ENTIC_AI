@@ -1,0 +1,26 @@
+names:
+- Mask
+- can
+- cellphone
+- electronics
+- gbottle
+- glove
+- metal
+- misc
+- net
+- pbag
+- pbottle
+- plastic
+- rod
+- sunglasses
+- tire
+nc: 15
+roboflow:
+  license: CC BY 4.0
+  project: ai-based-ocean-plastic-detection
+  url: https://universe.roboflow.com/tushar-sethi-svpyx/ai-based-ocean-plastic-detection/dataset/2
+  version: 2
+  workspace: tushar-sethi-svpyx
+test: ../test/images
+train: ../train/images
+val: ../valid/images
